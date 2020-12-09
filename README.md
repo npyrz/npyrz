@@ -12,6 +12,6 @@
 
 I'm a High School student and I plan on studying Software Engineering. I'm a HTML, CSS, SCSS, JavaScript, jQuery, discord.js Web Developer.
 
-## GitHub Contribution Statistics
-![GitHub Contribution Statistics](https://github-readme-stats.vercel.app/api?username=Neoptunium)
+## GitHub Statistics
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Neoptunium)
 
