@@ -7,8 +7,6 @@ I'm a 15 year old High School student from Chicago, and I plan on being a Softwa
 💾HTML, CSS, SCSS, JavaScript, jQuery, discord.js💾
 
 
-[![Me](https://cdn.discordapp.com/attachments/647578527293505545/786312489927049256/image0.jpg)
-
 ## Neoptunium's Development [Discord]
 [![Developer Discord](https://discordapp.com/api/guilds/770660983437918218/widget.png?style=banner4)](https://discord.gg/jSWf7ttF9P)
 
