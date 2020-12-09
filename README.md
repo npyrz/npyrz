@@ -1,7 +1,7 @@
 # Neoptunium
 
 ## Neoptunium's Development Discord
-[![Developer Discord](https://discord.com/api/guilds/770660983437918218/widget.json)](https://discord.com/invite/jSWf7ttF9P)
+[![Developer Discord](https://discord.com/api/guilds/770660983437918218/widget.png?style=banner4)](https://discord.com/invite/jSWf7ttF9P)
 [![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)
 ## Socials
 [![GitHub Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png)](https://github.com/jaredscar)
