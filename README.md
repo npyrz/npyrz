@@ -15,3 +15,5 @@ I'm a High School student and I plan on studying Software Engineering. I'm a HTM
 ## GitHub Statistics
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Neoptunium)
 
+<img alt="MOST LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoptunium&layout=compact&theme=midnight-purple">
+
