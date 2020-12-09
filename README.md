@@ -1,16 +1,17 @@
-### Hi there 👋
+# Neoptunium
 
-<!--
-**Neoptunium/Neoptunium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Neoptunium's Development [Discord]
+[![Developer Discord](https://discordapp.com/api/guilds/770660983437918218/widget.png?style=banner4)](https://discord.gg/jSWf7ttF9P)
 
-Here are some ideas to get you started:
+## Socials
+[![GitHub Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png)](https://github.com/Neoptunium)
+[![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Twitter-icon.png)](http://twitter.com/)
+[![Contact Me](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/email-icon.png)](mailto:neoptunium@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Information
+
+I'm a High School student and I plan on studying Software Engineering. I'm a HTML, CSS, SCSS, JavaScript, jQuery, discord.js Web Developer.
+
+## GitHub Contribution Statistics
+![GitHub Contribution Statistics](https://github-readme-stats.vercel.app/api?username=Neoptunium)
+
