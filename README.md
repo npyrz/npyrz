@@ -13,7 +13,7 @@
 I'm a High School student and I plan on studying Software Engineering. I'm a HTML, CSS, SCSS, JavaScript, jQuery, discord.js Web Developer.
 
 ## GitHub Statistics
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Neoptunium)
+<img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Tazi0&show_icons=true&theme=blue&hide=prs,issues">
 
-<img alt="MOST LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoptunium&layout=compact&theme=midnight-purple">
+<img alt="MOST LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoptunium&layout=compact&theme=blue">
 
