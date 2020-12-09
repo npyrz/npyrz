@@ -8,10 +8,10 @@ I'm a 15 year old High School student from Chicago, and I plan on being a Softwa
 [![Developer Discord](https://discord.com/api/guilds/770660983437918218/widget.png?style=banner4)](https://discord.com/invite/jSWf7ttF9P)
 
 ## Socials
-[![GitHub](https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Github-icon.png)](https://github.com/Neoptunium)
-[![Twitter](https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Twitter-icon.png)](http://twitter.com/Neoptunium)
-[![Email](https://icons.iconarchive.com/icons/cornmanthe3rd/metronome/512/Communication-email-blue-icon.png)](mailto:neoptunium@gmail.com)
-[![Website](https://icons.iconarchive.com/icons/custom-icon-design/mono-general-3/512/home-icon.png)](https://neoptunium.xyz/)
+[![GitHub](https://icons.iconarchive.com/icons/limav/flat-gradient-social/72/Github-icon.png)](https://github.com/Neoptunium)
+[![Twitter](https://icons.iconarchive.com/icons/limav/flat-gradient-social/72/Twitter-icon.png)](http://twitter.com/Neoptunium)
+[![Email](https://icons.iconarchive.com/icons/cornmanthe3rd/metronome/72/Communication-email-blue-icon.png)](mailto:neoptunium@gmail.com)
+[![Website](https://icons.iconarchive.com/icons/custom-icon-design/mono-general-3/72/home-icon.png)](https://neoptunium.xyz/)
 
 
 ## GitHub Statistics
