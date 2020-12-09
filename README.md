@@ -6,7 +6,7 @@ I'm a 15 year old High School student from Chicago, and I plan on being a Softwa
 
 
 ## Neoptunium's Development [Discord]
-[![Developer Discord](https://discordapp.com/api/guilds/770660983437918218/widget.png?style=banner4)](https://discord.gg/jSWf7ttF9P)
+[![Developer Discord](<iframe src="https://discord.com/widget?id=770660983437918218&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>)](https://discord.gg/jSWf7ttF9P)
 
 ## Socials
 [![GitHub](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png)](https://github.com/Neoptunium)
