@@ -1,6 +1,4 @@
-# Neoptunium
-
-## Information
+# Information
 
 I'm a 15 year old High School student from Chicago, and I plan on being a Software Engineer. I'm a HTML, CSS, SCSS, JavaScript, jQuery, discord.js Web Developer and I plan on learning many more other languages. I first started coding when I was 13 years old and started by making a discord bot and then I made my first own basic website. After that I gradually started learning more and now I'm addicted to coding and learning new things!
 
