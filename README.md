@@ -2,11 +2,12 @@
 
 ## Information
 
-'m a 15 year old High School student from Chicago, and I plan on being a Software Engineer. I'm a HTML, CSS, SCSS, JavaScript, jQuery, discord.js Web Developer and I plan on learning many more other languages. I first started coding when I was 13 years old and started by making a discord bot and then I made my first own basic website. After that I gradually started learning more and now I'm addicted to coding and learning new things!
+I'm a 15 year old High School student from Chicago, and I plan on being a Software Engineer. I'm a HTML, CSS, SCSS, JavaScript, jQuery, discord.js Web Developer and I plan on learning many more other languages. I first started coding when I was 13 years old and started by making a discord bot and then I made my first own basic website. After that I gradually started learning more and now I'm addicted to coding and learning new things!
 
-💾Program/Develop in HTML, CSS, SCSS, JavaScript, jQuery, discord.js 💾
-[![Me](https://neoptunium.xyz/css/me1.png)]
+💾HTML, CSS, SCSS, JavaScript, jQuery, discord.js💾
 
+
+[![Me](https://cdn.discordapp.com/attachments/647578527293505545/786312489927049256/image0.jpg)
 
 ## Neoptunium's Development [Discord]
 [![Developer Discord](https://discordapp.com/api/guilds/770660983437918218/widget.png?style=banner4)](https://discord.gg/jSWf7ttF9P)
