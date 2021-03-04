@@ -10,7 +10,7 @@ I'm a 15 year old High School student from Chicago, and I plan on studying Compu
 ## GitHub Statistics
 <img alt="MOST LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoptunium&layout=compact&theme=dark">
 
-<img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Neoptunium&show_icons=true&theme=dark-blue&hide=prs,issues">
+<img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Neoptunium&show_icons=true&theme=dark&hide=prs,issues">
 
 ## Socials
 [![GitHub](https://icons.iconarchive.com/icons/limav/flat-gradient-social/72/Github-icon.png)](https://github.com/Neoptunium)
