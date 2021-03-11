@@ -8,9 +8,9 @@ I'm a 15 year old High School student from Chicago, and I plan on studying Compu
 [![Developer Discord](https://discord.com/api/guilds/770660983437918218/widget.png?style=banner4)](https://discord.com/invite/jSWf7ttF9P)
 
 ## GitHub Statistics
-<img alt="MOST LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoptunium&layout=compact&theme=dark">
+<img alt="MOST LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoptunium&layout=compact&theme=react">
 
-<img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Neoptunium&show_icons=true&theme=dark&hide=prs,issues">
+<img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Neoptunium&show_icons=true&theme=react&hide=prs,issues">
 
 ## Socials
 [![GitHub](https://icons.iconarchive.com/icons/limav/flat-gradient-social/72/Github-icon.png)](https://github.com/Neoptunium)
