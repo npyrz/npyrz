@@ -1,5 +1,5 @@
 ## Who am I?
-<h1 align="center">I'm a 15 year old High School student from Chicago, and I plan on studying Computer Science. I'm a HTML, CSS, SCSS, JavaScript, jQuery, Handlebars, EJS, Node.js Web Developer and I plan on learning many more other languages. I first started coding when I was 13 years old and started by making a discord bot and then I made my first own basic website. After that I gradually started learning more and now I'm addicted to coding and learning new things!</h1>
+I'm a 15 year old High School student from Chicago, and I plan on studying Computer Science. I'm a HTML, CSS, SCSS, JavaScript, jQuery, Handlebars, EJS, Node.js Web Developer and I plan on learning many more other languages. I first started coding when I was 13 years old and started by making a discord bot and then I made my first own basic website. After that I gradually started learning more and now I'm addicted to coding and learning new things!
 
 ## Languages 
  💻 HTML, CSS, SCSS, JavaScript, jQuery, Handlebars, EJS, Node.js 💻
