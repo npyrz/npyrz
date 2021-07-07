@@ -3,10 +3,12 @@ I'm a 15 year old High School student from Chicago, and I plan on studying Compu
 
 ## Job Title & Languages 
 Front End Web Developer
+
 💻 HTML, CSS, SCSS, JavaScript, jQuery, Handlebars, EJS, Node.js, SQL 💻
 
 ## Website & Contact Information 
 https://neoptunium.xyz/
+
 Inquiries - `neoptunium@gmail.com`
 
 ## GitHub Statistics
