@@ -1,5 +1,5 @@
 ## Who am I?
-I'm a 15 year old High School student from Chicago, and I plan on studying Computer Science. I'm a HTML, CSS, SCSS, JavaScript, jQuery, Handlebars, EJS, Node.js, SQL Web Developer and I plan on learning many more other languages and explanding my knowledge to other things. I've been coding for over two years, starting with discord bots and then progressing to developing websites, programs, scripts, and other great stuff with discord bots and websites. If you are interested in Courses/Services feel free to check out the information on website! If you have any concerns or questions feel free to contact me via discord or email.
+I'm a 16 year old High School student from Chicago, and I plan on studying Computer Science. I'm a HTML, CSS, SCSS, JavaScript, jQuery, Handlebars, EJS, Node.js, SQL Web Developer and I plan on learning many more other languages and explanding my knowledge to other things. I've been coding for over two years, starting with discord bots and then progressing to developing websites, programs, scripts, and other great stuff with discord bots and websites. If you are interested in Courses/Services feel free to check out the information on website! If you have any concerns or questions feel free to contact me via discord or email.
 
 ## Job Title & Languages 
 ✔️ **Front End Web Developer** ✔️
