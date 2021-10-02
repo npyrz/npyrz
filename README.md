@@ -3,8 +3,11 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 
 ## Job Title & Languages 
 **Front-End Web Developer**
+
 **Web Designer**
+
 **Back-End Web Developer**
+
 **Discord Bot Developer**
 
 HTML, CSS, SCSS, JavaScript, jQuery, Handlebars, EJS, Node.js, SQL
