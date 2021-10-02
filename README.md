@@ -17,7 +17,7 @@ https://neoptunium.com/
 
 Inquiries - `neoptunium@gmail.com`
 
-<a href="https://discord.com/users/395383087531425793">
+ <img src="https://lanyard-profile-readme.vercel.app/api/395383087531425793" align="center"/>
 
 ## GitHub Statistics
 <img alt="MOST LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoptunium&layout=compact&theme=react">
