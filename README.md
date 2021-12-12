@@ -8,7 +8,7 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 
 **Discord Bot Developer**
 
-HTML, CSS, SCSS, JavaScript, jQuery, Handlebars, EJS, Node.js, SQL
+HTML, CSS, SCSS, JavaScript, jQuery, Handlebars, EJS, Node.js, SQL, discord.js
 
 ## Website & Contact Information 
 https://neoptunium.com/
