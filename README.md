@@ -35,11 +35,11 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 ![](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=green)&nbsp;
 ![](https://img.shields.io/badge/discord.js-000000?style=for-the-badge&logo=discord.js&logoColor=green)&nbsp;
 
--📌 &nbsp; [Front-End Web Developer]
+📌 &nbsp; [Front-End Web Developer]
 
--📌 &nbsp; [Web Designer]
+📌 &nbsp; [Web Designer]
 
--📌 &nbsp; [Discord Bot Developer]
+📌 &nbsp; [Discord Bot Developer]
 
 
 
