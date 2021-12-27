@@ -40,12 +40,13 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 📌 &nbsp; Discord Bot Developer
 
 
-
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
+  <a>
 <img alt="MOST LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoptunium&layout=compact&theme=react">
 <img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Neoptunium&show_icons=true&theme=react&hide=prs,issues">
+  </a>
 </p>
 
 
