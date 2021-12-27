@@ -1,5 +1,4 @@
-## Who am I?
-I'm a 16 year old High School student from Chicago, and I plan on studying Computer Science. I'm currently a Front-Wend Web Developer, Web Designer and Discord Bot Developer and I explanding my knowledge to other things. I've been coding for over two years, starting with discord bots and then progressing to developing websites, programs, scripts, and overall web development. If you are interested in any of my Services feel free to check them out here! If you have any concerns or questions feel free to contact me via discord or email. If you want to check out my work feel free to checkout my GitHub, it is the most updated and focused social media I use for my work!
+
 
 ## Job Title & Languages 
 **Front-End Web Developer**
@@ -26,7 +25,7 @@ I am presently accepting service requests for any work that you need performed. 
 If you are interested in buying a service please Email or message me on Discord or if you have any questions please contact me and I'll get to you as soon as possible. All service pricings are listed on my website.
 
 
-## Hey 👋, I'm [Luis](https://hypnoticsiege.net/) 
+## Who Am I?
 
 <img align="right" height="60" width="60" alt="" src="https://hypnoticsiege.net/images/uploads/logo.png" />
 
@@ -37,7 +36,7 @@ If you are interested in buying a service please Email or message me on Discord 
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=HypnoticSiege&label=Views&color=blue&style=plastic) 
 
-I'm a High School student planning to have a career in Aviation ✈️. I always love to expand my knowledge and learn about new technologies and tools 🔨.  Exploring different ways to solve problems has always been a big part of me to this day. Currently, I do a lot of Discord Bot Development 👨🏻‍💻 and trying to learn some more Vue 👀.
+I'm a 16 year old High School student from Chicago, and I plan on studying Computer Science. I'm currently a Front-Wend Web Developer, Web Designer and Discord Bot Developer and I explanding my knowledge to other things. I've been coding for over two years, starting with discord bots and then progressing to developing websites, programs, scripts, and overall web development. If you are interested in any of my Services feel free to check them out here! If you have any concerns or questions feel free to contact me via discord or email. If you want to check out my work feel free to checkout my GitHub, it is the most updated and focused social media I use for my work!
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
