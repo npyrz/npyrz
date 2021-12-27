@@ -35,11 +35,11 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 ![](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=green)&nbsp;
 ![](https://img.shields.io/badge/discord.js-000000?style=for-the-badge&logo=discord.js&logoColor=green)&nbsp;
 
-📌 &nbsp; [Front-End Web Developer]
+📌 &nbsp; Front-End Web Developer
 
-📌 &nbsp; [Web Designer]
+📌 &nbsp; Web Designer
 
-📌 &nbsp; [Discord Bot Developer]
+📌 &nbsp; Discord Bot Developer
 
 
 
@@ -51,22 +51,6 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 </p>
 
 ---
-
-## Job Title & Languages 
-**Front-End Web Developer**
-
-**Web Designer**
-
-**Discord Bot Developer**
-
-HTML, CSS, SCSS, JavaScript, jQuery, Handlebars, EJS, Node.js, SQL, discord.js
-
-## Website & Contact Information 
-https://neoptunium.com/
-
-Inquiries - `neoptunium@gmail.com`
-
-
 
 ## Services
 I am presently accepting service requests for any work that you need performed. All rates are determined by the amount of work required on the project/service. It also relies on whether the project requires hosting or other specific programs. If you need the project completed by a specific date/time, please contact me with your purchase so that I may begin working on it as soon as possible!
