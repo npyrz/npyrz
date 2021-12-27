@@ -1,7 +1,5 @@
 ## Who Am I?
 
-<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/498213392071393280/858505570353152020/neo.png" />
-
 [![Discord Badge](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&logoColor=blue)](https://discord.com/channels/@me/642805037101219871)
 [![Email Badge](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=Discord&logoColor=blue)](mailto:neoptunium@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=blue)](https://neoptunium.com/)
