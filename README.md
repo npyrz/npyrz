@@ -40,10 +40,8 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
-<a href="https://github.com/Itz-Hyperz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HypnoticSiege&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HypnoticSiege&layout=compact&langs_count=8&theme=react"/>
-</a>
+<img alt="MOST LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoptunium&layout=compact&theme=react">
+<img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Neoptunium&show_icons=true&theme=react&hide=prs,issues">
 </p>
 
 ---
@@ -62,10 +60,7 @@ https://neoptunium.com/
 
 Inquiries - `neoptunium@gmail.com`
 
-## GitHub Statistics
-<img alt="MOST LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoptunium&layout=compact&theme=react">
 
-<img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Neoptunium&show_icons=true&theme=react&hide=prs,issues">
 
 ## Services
 I am presently accepting service requests for any work that you need performed. All rates are determined by the amount of work required on the project/service. It also relies on whether the project requires hosting or other specific programs. If you need the project completed by a specific date/time, please contact me with your purchase so that I may begin working on it as soon as possible!
