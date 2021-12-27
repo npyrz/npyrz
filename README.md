@@ -58,4 +58,4 @@ If you are interested in buying a service please Email or message me on Discord 
 <h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
 
 ---
-<small>This README was orgininally made by <a href="https://hyperz.net/">Hyperz</a> with small edits by me. (Idea from @HypnoticSiege)</small>
+<small>This README was orgininally made by <a href="https://hyperz.net/">Hyperz</a> with small edits by me.</small>
