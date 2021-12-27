@@ -33,6 +33,7 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 ![](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=green)&nbsp;
 ![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
 ![](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=green)&nbsp;
+![](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=green)&nbsp;
 
 📌 &nbsp; Front-End Web Developer
 
