@@ -50,14 +50,12 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 <img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Neoptunium&show_icons=true&theme=react&hide=prs,issues">
 </p>
 
----
 
 ## Services
 I am presently accepting service requests for any work that you need performed. All rates are determined by the amount of work required on the project/service. It also relies on whether the project requires hosting or other specific programs. If you need the project completed by a specific date/time, please contact me with your purchase so that I may begin working on it as soon as possible!
 
 If you are interested in buying a service please Email or message me on Discord or if you have any questions please contact me and I'll get to you as soon as possible. All service pricings are listed on my website.
 
----
 
 <h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
 
