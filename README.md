@@ -14,12 +14,12 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 
 ### Some Highlights:
 
-- 📌 &nbsp; [Snapout Mental Health Awareness](https://snapout.nl/)
-- 🚀 &nbsp; [Discord x Twitch](https://github.com/HypnoticSiege/Discord-x-Twitch)
-- 🏫 &nbsp; [xDiscord FiveM](https://github.com/HypnoticSiege/xDiscord)
-- 🌀 &nbsp; [Discord Buttons RPC](https://github.com/HypnoticSiege/Discord-Buttons-RPC)
-- 👓 &nbsp; [Discord JS Logging](https://github.com/HypnoticSiege/Discord-JS-Logging)
-- 💻 &nbsp; [xMiranda](https://github.com/HypnoticSiege/xMiranda)
+- 📌 &nbsp; [Discord-DM-Support-Bot](https://github.com/Neoptunium/Discord-DM-Support-Bot)
+- 🚀 &nbsp; [Discord-Pager-System](https://github.com/Neoptunium/Discord-Pager-System)
+- 🏫 &nbsp; [Hypertonic-OLD](https://github.com/Neoptunium/Hypertonic-OLD)
+- 🌀 &nbsp; [Discord-Embed-Web-Panel](https://github.com/Neoptunium/Discord-Embed-Web-Panel)
+- 👓 &nbsp; [Height Converter](https://github.com/Neoptunium/Height-Converter)
+- 💻 &nbsp; [neoptunium.com](https://github.com/Neoptunium/neoptunium.com)
 
 ### Languages:
 
