@@ -1,17 +1,16 @@
 ## Who Am I?
 
-<img align="right" height="60" width="60" alt="" src="https://hypnoticsiege.net/images/uploads/logo.png" />
+<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/498213392071393280/858505570353152020/neo.png" />
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&logoColor=white)](https://hypnoticsiege.net/discord)
-[![Website Badge](https://img.shields.io/badge/Snowside-000000?style=flat-square&logo=snowpack&logoColor=blue)](https://hypnoticsiege.net/snowside)
-[![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://hypnoticsiege.net/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=Twitter&logoColor=blue)](https://twitter.com/hypnoticsiege)
+[![Discord Badge](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/channels/@me/642805037101219871)
+[![Email Badge](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/channels/@me/642805037101219871)
+[![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://neoptunium.com/)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=HypnoticSiege&label=Views&color=blue&style=plastic) 
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Neoptunium&label=Views&color=blue&style=plastic) 
 
 I'm a 16 year old High School student from Chicago, and I plan on studying Computer Science. I'm currently a Front-Wend Web Developer, Web Designer and Discord Bot Developer and I explanding my knowledge to other things. I've been coding for over two years, starting with discord bots and then progressing to developing websites, programs, scripts, and overall web development. If you are interested in any of my Services feel free to check them out here! If you have any concerns or questions feel free to contact me via discord or email. If you want to check out my work feel free to checkout my GitHub, it is the most updated and focused social media I use for my work!
 
-<img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
+<img align="right" height="215" width="325" alt="" src="https://cdn.discordapp.com/attachments/834091240777187408/924882829043724329/banner.gif" />
 
 
 ### Some Highlights:
