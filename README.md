@@ -1,30 +1,3 @@
-
-
-## Job Title & Languages 
-**Front-End Web Developer**
-
-**Web Designer**
-
-**Discord Bot Developer**
-
-HTML, CSS, SCSS, JavaScript, jQuery, Handlebars, EJS, Node.js, SQL, discord.js
-
-## Website & Contact Information 
-https://neoptunium.com/
-
-Inquiries - `neoptunium@gmail.com`
-
-## GitHub Statistics
-<img alt="MOST LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoptunium&layout=compact&theme=react">
-
-<img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Neoptunium&show_icons=true&theme=react&hide=prs,issues">
-
-## Services
-I am presently accepting service requests for any work that you need performed. All rates are determined by the amount of work required on the project/service. It also relies on whether the project requires hosting or other specific programs. If you need the project completed by a specific date/time, please contact me with your purchase so that I may begin working on it as soon as possible!
-
-If you are interested in buying a service please Email or message me on Discord or if you have any questions please contact me and I'll get to you as soon as possible. All service pricings are listed on my website.
-
-
 ## Who Am I?
 
 <img align="right" height="60" width="60" alt="" src="https://hypnoticsiege.net/images/uploads/logo.png" />
@@ -70,6 +43,32 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HypnoticSiege&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
+
+---
+
+## Job Title & Languages 
+**Front-End Web Developer**
+
+**Web Designer**
+
+**Discord Bot Developer**
+
+HTML, CSS, SCSS, JavaScript, jQuery, Handlebars, EJS, Node.js, SQL, discord.js
+
+## Website & Contact Information 
+https://neoptunium.com/
+
+Inquiries - `neoptunium@gmail.com`
+
+## GitHub Statistics
+<img alt="MOST LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoptunium&layout=compact&theme=react">
+
+<img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Neoptunium&show_icons=true&theme=react&hide=prs,issues">
+
+## Services
+I am presently accepting service requests for any work that you need performed. All rates are determined by the amount of work required on the project/service. It also relies on whether the project requires hosting or other specific programs. If you need the project completed by a specific date/time, please contact me with your purchase so that I may begin working on it as soon as possible!
+
+If you are interested in buying a service please Email or message me on Discord or if you have any questions please contact me and I'll get to you as soon as possible. All service pricings are listed on my website.
 
 ---
 
