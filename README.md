@@ -21,7 +21,7 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 - 👓 &nbsp; [Height Converter](https://github.com/Neoptunium/Height-Converter)
 - 💻 &nbsp; [neoptunium.com](https://github.com/Neoptunium/neoptunium.com)
 
-### Languages:
+### Languages & Job Titles:
 
 
 ![](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
@@ -34,6 +34,10 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 ![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
 ![](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=green)&nbsp;
 ![](https://img.shields.io/badge/discord.js-000000?style=for-the-badge&logo=discord.js&logoColor=green)&nbsp;
+
+-📌 &nbsp; [Front-End Web Developer]
+-📌 &nbsp; [Web Designer]
+-📌 &nbsp; [Discord Bot Developer]
 
 
 
