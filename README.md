@@ -5,7 +5,7 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&logoColor=blue)](https://discord.com/channels/@me/642805037101219871)
 [![Email Badge](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=Discord&logoColor=blue)](https://discord.com/channels/@me/642805037101219871)
 [![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=blue)](https://neoptunium.com/)
-[![](https://komarev.com/ghpvc/?username=Neoptunium&label=Views&color=blue&style=plastic) 
+![](https://komarev.com/ghpvc/?username=Neoptunium&label=Views&color=blue&style=plastic) 
 
 I'm a 16 year old High School student from Chicago, and I plan on studying Computer Science. I'm currently a Front-Wend Web Developer, Web Designer and Discord Bot Developer and I explanding my knowledge to other things. I've been coding for over two years, starting with discord bots and then progressing to developing websites, programs, scripts, and overall web development. If you are interested in any of my Services feel free to check them out here! If you have any concerns or questions feel free to contact me via discord or email. If you want to check out my work feel free to checkout my GitHub, it is the most updated and focused social media I use for my work!
 
@@ -21,17 +21,17 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 - 👓 &nbsp; [Discord JS Logging](https://github.com/HypnoticSiege/Discord-JS-Logging)
 - 💻 &nbsp; [xMiranda](https://github.com/HypnoticSiege/xMiranda)
 
-### Languages and Tools:
+### Languages:
 
-![](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
-![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
+
 ![](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
 ![](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
-![](https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=blue)&nbsp;
-![](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=blue)&nbsp;
-![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=orange)&nbsp;
-![](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
+![](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
+![](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
+![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
+![](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Stats
 
