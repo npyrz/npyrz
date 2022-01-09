@@ -24,12 +24,12 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 
 ![](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
 ![](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
-![](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=sass&logoColor=blue)&nbsp;
+![](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=sass&logoColor=pink)&nbsp;
 ![](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
 ![](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=yellow)&nbsp;
-![](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=&logoColor=green)&nbsp;
+![](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=javascript&logoColor=green)&nbsp;
 ![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
-![](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=green)&nbsp;
+![](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=yellow)&nbsp;
 
 👨🏼‍💻 &nbsp; Front-End Web Developer
 
