@@ -7,7 +7,7 @@
 
 I'm a 16 year old High School student from Chicago, and I plan on studying Computer Science. I'm currently a Front-End Web Developer, Web Designer and Discord Bot Developer and I explanding my knowledge to other things. I've been coding for over two years, starting with discord bots and then progressing to developing websites, programs, scripts, and overall web development. If you are interested in any of my Services feel free to check them out here! If you have any concerns or questions feel free to contact me via discord or email. If you want to check out my work feel free to checkout my GitHub, it is the most updated and focused social media I use for my work!
 
-<img align="right" height="215" width="325" alt="" src="https://cdn.discordapp.com/attachments/834091240777187408/924882829043724329/banner.gif" />
+<img align="right" height="215" width="325" alt="" src="https://cdn.discordapp.com/attachments/708353767233552498/929601590418087966/banner2.gif" />
 
 
 ### Some Highlights:
