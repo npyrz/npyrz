@@ -1,7 +1,7 @@
 ## Who Am I?
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&logoColor=blue)](https://discord.com/channels/@me/642805037101219871)
-[![Email Badge](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=Discord&logoColor=blue)](mailto:neoptunium@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=Gmail&logoColor=blue)](mailto:neoptunium@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=blue)](https://neoptunium.com/)
 ![](https://komarev.com/ghpvc/?username=Neoptunium&label=Views&color=blue&style=plastic) 
 
