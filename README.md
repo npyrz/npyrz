@@ -41,10 +41,10 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
-  <a>
-<img alt="MOST LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoptunium&layout=compact&theme=react">
-<img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Neoptunium&show_icons=true&theme=react&hide=prs,issues">
-  </a>
+<a href="https://github.com/Neoptunium">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Neoptunium&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Neoptunium&layout=compact&langs_count=8&theme=react"/>
+</a>
 </p>
 
 
