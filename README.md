@@ -17,7 +17,7 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 - 🏫 &nbsp; [Hypertonic-OLD](https://github.com/Neoptunium/Hypertonic-OLD)
 - 🌀 &nbsp; [Discord-Embed-Web-Panel](https://github.com/Neoptunium/Discord-Embed-Web-Panel)
 - 👓 &nbsp; [Height Converter](https://github.com/Neoptunium/Height-Converter)
-- 💻 &nbsp; [neoptunium.com](https://github.com/Neoptunium/neoptunium.com)
+- 💻 &nbsp; [SQL-Notepad-Data-Saver](https://github.com/Neoptunium/SQL-Notepad-Data-Saver)
 
 ### Languages & Job Titles:
 
@@ -31,11 +31,11 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 ![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
 ![](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=green)&nbsp;
 
-📌 &nbsp; Front-End Web Developer
+👨🏼‍💻 &nbsp; Front-End Web Developer
 
-📌 &nbsp; Web Designer
+👨🏼‍💻 &nbsp; Web Designer
 
-📌 &nbsp; Discord Bot Developer
+👨🏼‍💻 &nbsp; Discord Bot Developer
 
 
 ### ⚙️ &nbsp;GitHub Stats
