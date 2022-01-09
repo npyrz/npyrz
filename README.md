@@ -54,5 +54,5 @@ I am presently accepting service requests for any work that you need performed. 
 If you are interested in buying a service please Email or message me on Discord or if you have any questions please contact me and I'll get to you as soon as possible. All service pricings are listed on my website.
 
 
-<h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
+<h3 align=center>Show some ❤️ by starring some of the repositories and following me!</h3>
 
