@@ -3,7 +3,7 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&logoColor=blue)](https://discord.com/channels/@me/642805037101219871)
 [![Email Badge](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=Gmail&logoColor=blue)](mailto:neoptunium@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=blue)](https://neoptunium.com/)
-![](https://komarev.com/ghpvc/?username=Neoptunium&label=Views&color=blue&style=plastic) 
+![](https://komarev.com/ghpvc/?username=neoptunium&label=Views&color=blue&style=plastic) 
 
 I'm a 16 year old High School student from Chicago, and I plan on studying Computer Science. I'm currently a Front-End Web Developer, Web Designer and Discord Bot Developer and I explanding my knowledge to other things. I've been coding for over two years, starting with discord bots and then progressing to developing websites, programs, scripts, and overall web development. If you are interested in any of my Services feel free to check them out here! If you have any concerns or questions feel free to contact me via discord or email. If you want to check out my work feel free to checkout my GitHub, it is the most updated and focused social media I use for my work!
 
@@ -12,12 +12,12 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 
 ### Some Highlights:
 
-- 📌 &nbsp; [Discord-DM-Support-Bot](https://github.com/Neoptunium/Discord-DM-Support-Bot)
-- 🚀 &nbsp; [Discord-Pager-System](https://github.com/Neoptunium/Discord-Pager-System)
-- 🏫 &nbsp; [Hypertonic-OLD](https://github.com/Neoptunium/Hypertonic-OLD)
-- 🌀 &nbsp; [Discord-Embed-Web-Panel](https://github.com/Neoptunium/Discord-Embed-Web-Panel)
-- 👓 &nbsp; [Shopping Cart](https://github.com/Neoptunium/Shopping-Cart)
-- 💻 &nbsp; [SQL-Notepad-Data-Saver](https://github.com/Neoptunium/SQL-Notepad-Data-Saver)
+- 📌 &nbsp; [Discord-DM-Support-Bot](https://github.com/neoptunium/Discord-DM-Support-Bot)
+- 🚀 &nbsp; [Discord-Pager-System](https://github.com/neoptunium/Discord-Pager-System)
+- 🏫 &nbsp; [Hypertonic-OLD](https://github.com/neoptunium/Hypertonic-OLD)
+- 🌀 &nbsp; [Discord-Embed-Web-Panel](https://github.com/neoptunium/Discord-Embed-Web-Panel)
+- 👓 &nbsp; [Shopping Cart](https://github.com/neoptunium/Shopping-Cart)
+- 💻 &nbsp; [SQL-Notepad-Data-Saver](https://github.com/neoptunium/SQL-Notepad-Data-Saver)
 
 ### Languages & Job Titles:
 
@@ -41,9 +41,9 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
-<a href="https://github.com/Neoptunium">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Neoptunium&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Neoptunium&layout=compact&langs_count=8&theme=react"/>
+<a href="https://github.com/neoptunium">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=neoptunium&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=neoptunium&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
