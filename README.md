@@ -19,7 +19,7 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 - 👓 &nbsp; [Shopping Cart](https://github.com/neoptunium/Shopping-Cart)
 - 💻 &nbsp; [SQL-Notepad-Data-Saver](https://github.com/neoptunium/SQL-Notepad-Data-Saver)
 
-### Languages & Job Titles:
+### Languages:
 
 
 ![](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
@@ -30,13 +30,6 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 ![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
 ![](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=yellow)&nbsp;
 ![](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
-
-👨🏼‍💻 &nbsp; Front-End Web Developer
-
-👨🏼‍💻 &nbsp; Web Designer
-
-👨🏼‍💻 &nbsp; Discord Bot Developer
-
 
 ### ⚙️ &nbsp;GitHub Stats
 
