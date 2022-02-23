@@ -6,20 +6,8 @@
 
 I'm a 16 year old High School student from Chicago, and I plan on studying Computer Science. I'm currently a Front-End Web Developer, JavaScript Developer and Web Designer and I'm explanding my knowledge to other things. I've been coding for over three years, starting with discord bots and then progressing to developing websites, programs, scripts, and overall web development. If you are interested in any of my Services feel free to check them out here! If you have any concerns or questions feel free to contact me via discord or email. If you want to check out my work feel free to checkout my GitHub, it is the most updated and focused social media I use for my work!
 
-<img align="right" height="215" width="325" alt="" src="https://cdn.discordapp.com/attachments/708353767233552498/929601590418087966/banner2.gif" />
-
-
-### Some Highlights:
-
-- 📌 &nbsp; [Discord-DM-Support-Bot](https://github.com/neoptunium/Discord-DM-Support-Bot)
-- 🚀 &nbsp; [Discord-Pager-System](https://github.com/neoptunium/Discord-Pager-System)
-- 🏫 &nbsp; [Hypertonic-OLD](https://github.com/neoptunium/Hypertonic-OLD)
-- 🌀 &nbsp; [Discord-Embed-Web-Panel](https://github.com/neoptunium/Discord-Embed-Web-Panel)
-- 👓 &nbsp; [Shopping Cart](https://github.com/neoptunium/Shopping-Cart)
-- 💻 &nbsp; [SQL-Notepad-Data-Saver](https://github.com/neoptunium/SQL-Notepad-Data-Saver)
 
 ### Languages:
-
 
 ![](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
 ![](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
