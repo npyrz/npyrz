@@ -3,7 +3,6 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&logoColor=blue)](https://discord.com/channels/@me/642805037101219871)
 [![Email Badge](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=Gmail&logoColor=blue)](mailto:neoptunium@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=blue)](https://neoptunium.com/)
-![](https://komarev.com/ghpvc/?username=neoptunium&label=Views&color=blue&style=plastic) 
 
 I'm a 16 year old High School student from Chicago, and I plan on studying Computer Science. I'm currently a Front-End Web Developer, JavaScript Developer and Web Designer and I'm explanding my knowledge to other things. I've been coding for over three years, starting with discord bots and then progressing to developing websites, programs, scripts, and overall web development. If you are interested in any of my Services feel free to check them out here! If you have any concerns or questions feel free to contact me via discord or email. If you want to check out my work feel free to checkout my GitHub, it is the most updated and focused social media I use for my work!
 
