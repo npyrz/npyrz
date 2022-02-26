@@ -2,6 +2,9 @@
 [![Email Badge](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=Gmail&logoColor=blue)](mailto:neoptunium@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=blue)](https://neoptunium.com/)
 
+<!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/116730818822537225)](https://discord.com/users/116730818822537225) -->
+[![Discord Presence](https://discord.c99.nl/widget/theme-1/116730818822537225.png)](https://discord.com/users/395383087531425793)
+
 ## Who Am I?
 
 I'm a 16 year old High School student from Chicago, and I plan on studying Computer Science. I'm currently a Front-End Web Developer, JavaScript Developer and Web Designer and I'm explanding my knowledge to other things. I've been coding for over three years, starting with discord bots and then progressing to developing websites, programs, scripts, and overall web development. If you are interested in any of my Services feel free to check them out here! If you have any concerns or questions feel free to contact me via discord or email!
