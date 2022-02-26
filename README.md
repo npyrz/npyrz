@@ -2,8 +2,8 @@
 [![Email Badge](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=Gmail&logoColor=blue)](mailto:neoptunium@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=blue)](https://neoptunium.com/)
 
-<!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/116730818822537225)](https://discord.com/users/116730818822537225) -->
-[![Discord Presence](https://discord.c99.nl/widget/theme-1/116730818822537225.png)](https://discord.com/users/395383087531425793)
+<!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/395383087531425793)](https://discord.com/users/395383087531425793) -->
+[![Discord Presence](https://discord.c99.nl/widget/theme-1/395383087531425793.png)](https://discord.com/users/395383087531425793)
 
 ## Who Am I?
 
