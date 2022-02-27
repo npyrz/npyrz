@@ -7,7 +7,7 @@
 
 ## Who Am I?
 
-I'm a 16 year old High School student from Chicago, and I plan on studying Computer Science. I'm currently a Front-End Web Developer, JavaScript Developer and Web Designer and I'm explanding my knowledge to other things. I've been coding for over three years, starting with discord bots and then progressing to developing websites, programs, scripts, and overall web development. If you are interested in any of my Services feel free to check them out here! If you have any concerns or questions feel free to contact me via discord or email!
+I'm a 16 year old High School student from Chicago, and I plan on studying Computer Science. I'm currently a Front-End Web Developer and JavaScript Developer. In addition, I'm explanding my knowledge to other things. I've been coding for over three years, starting with discord bots and then progressing to developing websites, programs, scripts, and overall web development. If you are interested in any of my services feel free to reach out, if you have any concerns or questions feel free to contact me via discord or email!
 
 ### Languages:
 
