@@ -1,6 +1,6 @@
-
- <img height="100em" style="text-align: center" src="https://discord.c99.nl/widget/theme-1/395383087531425793.png"/>
-
+<p align="center">
+<img height="100em" src="https://discord.c99.nl/widget/theme-1/395383087531425793.png"/>
+</p>
 
 ## Who Am I?
 <p align="center">
