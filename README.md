@@ -1,8 +1,8 @@
-
+<p align="center">
 [![Discord Badge](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&logoColor=blue)](https://discord.com/channels/@me/642805037101219871)
 [![Email Badge](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=Gmail&logoColor=blue)](mailto:neoptunium@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=blue)](https://neoptunium.com/)
-
+</p>
 [![Discord Presence](https://discord.c99.nl/widget/theme-1/395383087531425793.png)](https://discord.com/users/395383087531425793)
 
 ## Who Am I?
