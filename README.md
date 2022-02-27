@@ -9,7 +9,7 @@
 
 I'm a 16 year old High School student from Chicago, and I plan on studying Computer Science. I'm currently a Front-End Web Developer and JavaScript Developer. In addition, I'm explanding my knowledge to other things. I've been coding for over three years, starting with discord bots and then progressing to developing websites, programs, scripts, and overall web development. If you are interested in any of my services feel free to reach out, if you have any concerns or questions feel free to contact me via discord or email.
 
-### Languages:
+### Languages
 
 ![](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
 ![](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
