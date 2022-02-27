@@ -6,8 +6,9 @@
 [![Discord Presence](https://discord.c99.nl/widget/theme-1/395383087531425793.png)](https://discord.com/users/395383087531425793)
 
 ## Who Am I?
-
+<p align="center">
 I'm a 16 year old High School student from Chicago, and I plan on studying Computer Science. I'm currently a Front-End Web Developer and JavaScript Developer. In addition, I'm explanding my knowledge to other things. I've been coding for over three years, starting with discord bots and then progressing to developing websites, programs, scripts, and overall web development. If you are interested in any of my services feel free to reach out, if you have any concerns or questions feel free to contact me via discord or email.
+</p>
 
 ### Languages
 
@@ -18,7 +19,6 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 ![](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=yellow)&nbsp;
 ![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
 ![](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=yellow)&nbsp;
-![](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Stats
 
