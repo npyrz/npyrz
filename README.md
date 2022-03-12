@@ -1,7 +1,3 @@
-<p align="center">
-<img height="100em" src="https://discord.c99.nl/widget/theme-1/395383087531425793.png"/>
-</p>
-
 ## Who Am I?
 <p align="center">
 I'm a 16 year old High School student from Chicago, and I plan on studying Computer Science. I'm currently a Front-End Web Developer and JavaScript Developer,and always explanding my knowledge to other things. I've been coding for over three years, starting with discord bots and then progressing to developing websites, programs, scripts, and overall web development. If you are interested in any of my services feel free to reach out, if you have any concerns or questions feel free to contact me via discord or email.
@@ -25,6 +21,9 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=neoptunium&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=neoptunium&layout=compact&langs_count=8&theme=react"/>
 </a>
+</p>
+<p align="center">
+<img height="100em" src="https://discord.c99.nl/widget/theme-1/395383087531425793.png"/>
 </p>
 
 
