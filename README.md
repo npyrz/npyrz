@@ -11,9 +11,8 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 ![](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
 ![](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=yellow)&nbsp;
 ![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
-![](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=yellow)&nbsp;
-![](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=javascript&logoColor=green)&nbsp;
 ![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=green)&nbsp;
+![](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=yellow)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Stats
 
