@@ -29,7 +29,7 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 
 ## Services
 <p align="center">
-I am presently accepting service requests for any work that you need performed. All rates are determined by the amount of work required on the project/service. It also relies on whether the project requires hosting or other specific requirements. If you are interested in buying a service please Email or message me on Discord and if you have any questions please contact me and I'll get to you as soon as possible. All service estimated pricings are listed on my website. </p>
+I am currently accepting service requests for any work that you need. All rates are determined by the amount of work required on the project/service. It also relies on whether the project requires any other specific requirements. If you are interested in buying a service please email or message me on Discord and if you have any questions please contact me and I'll get to you as soon as possible. All service estimated pricings are listed on my website. </p>
 
 
 <h3 align=center>Show some ❤️ by starring some of the repositories and following me!</h3>
