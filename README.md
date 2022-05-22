@@ -18,7 +18,7 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 
 <p align="center">
 <a href="https://github.com/neoptunium">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=neoptunium&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Neoptunium&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=neoptunium&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
