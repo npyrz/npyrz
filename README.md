@@ -23,9 +23,7 @@ I'm a 16 year old High School student from Chicago, and I plan on studying Compu
 </a>
 </p>
 <p align="center">
-<img height="100em" src="https://discord.c99.nl/widget/theme-1/395383087531425793.png"/>
-  
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Neoptunium&show_icons=true&title_color=d64bea&theme=onedark&text_color=fff&icon_color=9656eb&layout=compact&count_private=true&line_height=20&cache=false&custom_title=Gaeta%27s%20Wakatime%20Stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Neoptunium&show_icons=true&title_color=d64bea&theme=react&text_color=fff&icon_color=9656eb&layout=compact&count_private=true&line_height=20&cache=false&custom_title=Neoptunium's%27s%20Wakatime%20Stats" />
   
 </p>
 
