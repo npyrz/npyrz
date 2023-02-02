@@ -16,13 +16,11 @@ As a 17-year-old high school student from Chicago, I have a passion for technolo
 
 
 ### ⚙️ &nbsp; Statistics
-<div>
-![](https://github-readme-streak-stats.herokuapp.com/?user=neoptunium&theme=react&hide_border=true)<br/>
-</div> 
 <p align="center">
 <a href="https://github.com/neoptunium">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Neoptunium&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=neoptunium&layout=compact&langs_count=8&theme=react"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=neoptunium&theme=react&hide_border=true"/>
 </a>
 </p>
 
