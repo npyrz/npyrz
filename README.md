@@ -1,6 +1,6 @@
 ## Who Am I?
 <p align="center">
-As a 17-year-old high school student from Chicago, I have a passion for technology and programming. With three years of experience building websites, Discord bots, and various tools, I am eager to continue my studies in Computer Science at a in-state college this fall. I am constantly seeking to expand my knowledge and stay up-to-date with the latest tech advancements and always open to work with others. When I'm not coding, I enjoy spending time with loved ones, outdoor activities, and working out at the gym. If you have any questions or would like to reach out, please feel free to do so via [Discord](https://discord.com/channels/@me/642805037101219871) or [Email](mailto:neoptunium@gmail.com).
+As a 17-year-old high school student from Chicago, I have a passion for technology and programming. With three years of experience building websites, Discord bots, and various tools, I am eager to continue my studies in Computer Science at a in-state college this fall. I am constantly seeking to expand my knowledge and stay up-to-date with the latest tech advancements and always open to work with others. When I'm not coding, I enjoy spending time with loved ones, outdoor activities, and working out at the gym. If you have any questions or would like to reach out, please feel free to do so via Discord or Email.
 </p>
 
 ### Proficient Languages
@@ -23,5 +23,7 @@ As a 17-year-old high school student from Chicago, I have a passion for technolo
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=neoptunium&theme=react&hide_border=true"/>
 </a>
 </p>
+
+[![Venmo](https://img.shields.io/badge/Venmo-00457C?style=for-the-badge&logo=venmo&logoColor=white)](https://account.venmo.com/u/neoptunium) 
 
 <h3 align=center>Show some ❤️ by starring some of the repositories and following me!</h3>
