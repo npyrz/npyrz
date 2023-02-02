@@ -24,7 +24,7 @@ As a 17-year-old high school student from Chicago, I have a passion for technolo
 </a>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Neoptunium&show_icons=true&title_color=61d9fa&theme=react&text_color=fff&icon_color=9656eb&layout=compact&count_private=true&line_height=20&cache=false&custom_title=Neoptunium%27s%20Wakatime%20Stats" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=neoptunium&theme=tokyonight&hide_border=true)
 </p>
 
 <h3 align=center>Show some ❤️ by starring some of the repositories and following me!</h3>
