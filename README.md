@@ -1,6 +1,6 @@
 ## Who Am I?
 <p align="center">
-As a 17-year-old high school student from Chicago, I have a passion for technology and programming. With three years of experience building websites, Discord bots, and various tools, I am eager to continue my studies in Computer Science at a in-state college this fall. I am constantly seeking to expand my knowledge and stay up-to-date with the latest tech advancements and always open to work with others. When I'm not coding, I enjoy spending time with loved ones, outdoor activities, and working out at the gym. If you have any questions or would like to reach out, please feel free to do so via Discord or email.
+As a 17-year-old high school student from Chicago, I have a passion for technology and programming. With three years of experience building websites, Discord bots, and various tools, I am eager to continue my studies in Computer Science at a in-state college this fall. I am constantly seeking to expand my knowledge and stay up-to-date with the latest tech advancements and always open to work with others. When I'm not coding, I enjoy spending time with loved ones, outdoor activities, and working out at the gym. If you have any questions or would like to reach out, please feel free to do so via [Discord](https://discord.com/channels/@me/642805037101219871) or [Email](mailto:neoptunium@gmail.com).
 </p>
 
 ### Proficient Languages
