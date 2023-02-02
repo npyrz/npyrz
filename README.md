@@ -3,18 +3,17 @@
 As a 17-year-old high school student from Chicago, I have a passion for technology and programming. With three years of experience building websites, Discord bots, and various tools, I am eager to continue my studies in Computer Science at a in-state college this fall. I am constantly seeking to expand my knowledge and stay up-to-date with the latest tech advancements and always open to work with others. When I'm not coding, I enjoy spending time with loved ones, outdoor activities, and working out at the gym. If you have any questions or would like to reach out, please feel free to do so via Discord or email.
 </p>
 
-### Languages
+### Languages & Software
 
-![](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
-![](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
-![](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=sass&logoColor=pink)&nbsp;
-![](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
-![](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=yellow)&nbsp;
-![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
-![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=green)&nbsp;
-![](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=yellow)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![jQuery](https://img.shields.io/badge/-sass-C51A4A?style=for-the-badge&logo=sass)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jquery-C51A4A?style=for-the-badge&logo=jquery)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
- ![](https://img.shields.io/badge/-jquery-C51A4A?style=for-the-badge&logo=jquery)
 
 ### ⚙️ &nbsp; Statistics
 
