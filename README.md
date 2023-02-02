@@ -14,7 +14,7 @@ As a 17-year-old high school student from Chicago, I have a passion for technolo
 ![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=green)&nbsp;
 ![](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=yellow)&nbsp;
 
- ![Raspberry Pi](https://img.shields.io/badge/-jquery-C51A4A?style=for-the-badge&logo=jquery)
+ ![](https://img.shields.io/badge/-jquery-C51A4A?style=for-the-badge&logo=jquery)
 
 ### ⚙️ &nbsp; Statistics
 
