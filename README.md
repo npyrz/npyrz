@@ -24,6 +24,4 @@ As a 17-year-old high school student from Chicago, I have a passion for technolo
 </a>
 </p>
 
-[![Venmo](https://img.shields.io/badge/Venmo-00457C?style=for-the-badge&logo=venmo&logoColor=white)](https://account.venmo.com/u/neoptunium) 
-
 <h3 align=center>Show some ❤️ by starring some of the repositories and following me!</h3>
