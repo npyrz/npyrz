@@ -1,4 +1,4 @@
-<div align="center">![My Discord](https://discord-readme-badge.vercel.app/api?id=<395383087531425793>)</div>
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<395383087531425793>)
 
 
 ### 💻 Proficient Languages
