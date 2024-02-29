@@ -9,6 +9,6 @@
 <a href="https://github.com/npyrz">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=npyrz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=npyrz&layout=compact&langs_count=8&theme=react"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=npyr&theme=react&hide_border=true"/>
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=npyrz&theme=react&hide_border=true"/>
 </a>
 </p>
