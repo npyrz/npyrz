@@ -1,11 +1,4 @@
-## Who Am I?
-<p align="center">
-As a 18-year-old college student from Chicago, I have a passion for technology and programming. With four years of experience building websites, Discord bots, and various tools, I am eager to continue my studies in Computer Science at a in-state college this fall. I am constantly seeking to expand my knowledge and stay up-to-date with the latest tech advancements and always open to work with others. When I'm not coding, I enjoy spending time with loved ones, outdoor activities, and working out at the gym. If you have any questions or would like to reach out, please feel free to do so via Discord or Email.
-</p>
-
-### 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me/642805037101219871) 
-[![Email](https://img.shields.io/badge/Email-%23E4405F.svg?logo=Email&logoColor=white)](mailto:neoptunium@gmail.com)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<your discord id>)
 
 ### 💻 Proficient Languages
 
@@ -27,5 +20,3 @@ As a 18-year-old college student from Chicago, I have a passion for technology a
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=npyr&theme=react&hide_border=true"/>
 </a>
 </p>
-
-<h3 align=center>Show some ❤️ by starring some of the repositories and following me!</h3>
