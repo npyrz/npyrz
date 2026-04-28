@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/npyrz/npyrz/output/pacman-contribution-graph-dark.svg" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/npyrz/npyrz/output/output/pacman-contribution-graph-dark.svg" />
 </p>
 
 # 👋 Hi, I'm Noah
