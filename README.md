@@ -1,19 +1,3 @@
-<!-- Profile Badges / Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=npyrz&layout=compact&theme=dracula" alt="Top Langs" />
-  <img src="https://streak-stats.demolab.com?user=npyrz&theme=dracula" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/npyrz/npyrz/output/output/pacman-contribution-graph-dark.svg" />
-</p>
-
-# 👋 Hi, I'm Noah
-
-Distributed Systems • Backend Engineering • AI/ML • Full-Stack
-
----
-
 ## 🚀 About Me
 
 I'm a Computer Science student @ UIC (Class of 2027) with a drive for architecting scalable, high-performance systems—from real-time multiplayer game servers to AI-powered SaaS platforms and secure infrastructure tooling.
@@ -99,3 +83,13 @@ I thrive solving problems at the intersection of distributed systems, automation
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Discord_API-5865F2?logo=discord&logoColor=white" />
 </p
+
+<!-- Profile Badges / Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=npyrz&layout=compact&theme=dracula" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=npyrz&theme=dracula" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/npyrz/npyrz/output/output/pacman-contribution-graph-dark.svg" />
+</p>
