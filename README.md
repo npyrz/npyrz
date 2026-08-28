@@ -1,9 +1,30 @@
 ## Hi, I'm Noah
 
-CS undergrad at UIC, graduating May 2027. Previously a software engineering intern at Meta.
+CS undergrad at UIC, graduating May 2027. Currently doing undergraduate research at the
+**Electronic Visualization Laboratory** and working as a **software engineer at Blaine County
+Gaming Network**. Previously a software engineering intern at **Meta**.
 
-I like infrastructure and the tooling that keeps it honest — fleet automation, access control,
-retrieval systems, and models small enough to run on the device that collected the data.
+Infrastructure is my favourite part — the tooling other people end up depending on — but the
+work keeps pulling in backend platforms, applied ML, and more security engineering than I
+expected to be doing.
+
+### What I'm working on
+
+**Electronic Visualization Laboratory** — Provisioning and access control for a 15-node NVIDIA
+Jetson AGX Thor cluster. A Flask API over idempotent Ansible playbooks turned a 15-step manual
+re-flash into one audited action, and an OAuth-backed SSH certificate authority replaced shared
+credentials with short-lived, roster-scoped certificates so each student reaches only their
+assigned nodes. I also rebuilt the assignment track for the lab's edge-computing course.
+That code lives in private lab repos.
+
+**Blaine County Gaming Network** — Backend work on a Node/Express + MySQL platform: a creator
+marketplace with a peer-benchmarked pricing engine, a 911 dispatch subsystem I wrote end to
+end, and a Discord-facing RAG assistant over internal documentation and the server codebase
+with ingest-time secret scanning and redacted output.
+
+**Side projects** — [Orbit Chat](https://github.com/orbit-chat) and
+[Probis](https://github.com/npyrz/probis) are both active. Taking Machine Learning and
+Computer Vision this term, which keeps feeding back into the on-device inference work.
 
 ### Selected work
 
@@ -35,17 +56,6 @@ preference, and calendar conflicts — with weights that adapt to how much histo
 **[Pixordle](https://github.com/npyrz/Pixordle)** — Daily image-word puzzle.
 Object detection turns a photo into guessable words; solving reveals the image underneath.
 `Next.js` `Python`
-
-### What I'm working on
-
-Undergraduate research on edge computing — provisioning and access control for a 15-node
-NVIDIA Jetson AGX Thor cluster. A Flask API over idempotent Ansible playbooks turned a
-15-step manual re-flash into one audited action, and an OAuth-backed SSH certificate
-authority replaced shared credentials with short-lived, roster-scoped certificates so each
-student reaches only their assigned nodes. That code lives in a private lab repo.
-
-Also currently taking Machine Learning and Computer Vision, which keeps feeding back into
-the on-device inference work.
 
 ### Tech
 
