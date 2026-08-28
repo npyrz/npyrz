@@ -49,16 +49,12 @@ the on-device inference work.
 
 ### Tech
 
-**Languages** Python · TypeScript · JavaScript · SQL · C++ · C · Java · Go · Lua
-**Frameworks** React · Next.js · Node/Express · NestJS · Flask · Prisma · Socket.IO · Electron · PyTorch · OpenCV · Vitest
-**Infrastructure** PostgreSQL · MySQL · Redis · Ansible · Docker · Linux · systemd · GitHub Actions · AWS S3
+**Languages** — Python · TypeScript · JavaScript · SQL · C++ · C · Java · Go · Lua
 
-<!-- Profile Badges / Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=npyrz&layout=compact&theme=dracula" alt="Top Langs" />
-  <img src="https://streak-stats.demolab.com?user=npyrz&theme=dracula" alt="Streak Stats" />
-</p>
+**Frameworks** — React · Next.js · Node/Express · NestJS · Flask · Prisma · Socket.IO · Electron · PyTorch · OpenCV · Vitest
+
+**Infrastructure** — PostgreSQL · MySQL · Redis · Ansible · Docker · Linux · systemd · GitHub Actions · AWS S3
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/npyrz/npyrz/output/output/pacman-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/npyrz/npyrz/output/output/pacman-contribution-graph-dark.svg" alt="contribution graph" />
 </p>
